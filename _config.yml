@@ -21,7 +21,7 @@
 title: omw
 email: o@orangeo.tech
 description: >- # this means to ignore newlines until "baseurl:"
-  Active writeups are on this site. For retired writeups please go to my 
+  For retired writeups, check my 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orangeo.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pomelosec
@@ -43,6 +43,10 @@ minima:
     twitter: pomelosec
     hackthebox: "154429"
     tryhackme: omw
+
+header_pages:
+ - privacy-policy.markdown
+ - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
