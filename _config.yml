@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orangeo.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pomelosec
 github_username:  jekyll
+google_analytics: G-DBTV8N87NY
 
 # Build settings
 theme: minima
