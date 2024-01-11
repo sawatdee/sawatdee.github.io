@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome to my first blog post!"
-date:   2021-04-28 18:09:32 +0700
-categories: post
----
-Greeting!
